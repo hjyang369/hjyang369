@@ -7,6 +7,7 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" alt="icon"  width="65" height="65" />
 </div>
 
 - 협업툴
