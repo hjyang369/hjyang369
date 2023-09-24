@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🍀Maejin%20Github🍀&fontSize=40" />
 
-- 기술스택
+## 기술스택
 
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat&logo=prettier&logoColor=black">
 </div>
 
-- 협업툴
+
+
+## 협업툴
+
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -21,6 +24,21 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
+
+
+
+## GitHub stats
+
+
+![hjyang369's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjyang369&show_icons=true&theme=gruvbox)
+[![hjyang369's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hjyang369&show_icons=true&&theme=gruvbox&layout=compact&height=70)](https://github.com/hjyang369)
+
+
+
+
+## contact
+
+[![Gmail badge](https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghlwls6@gmail.com)
 
 <!--
 **hjyang369/hjyang369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
