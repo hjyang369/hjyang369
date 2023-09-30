@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🍀Maejin%20Github🍀&fontSize=40" />
 
+<a href="https://www.parkjin.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FEAE2E&width=435&lines=Welcome+to+my+page~!" alt="Typing SVG" /></a>
+
 ## 기술스택
 
 <div>
