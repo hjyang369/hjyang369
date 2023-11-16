@@ -2,6 +2,11 @@
 
 <a href="https://www.parkjin.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FEAE2E&width=435&lines=Welcome+to+my+page~!" alt="Typing SVG" /></a>
 
+## My Blog 
+
+👉🏻 https://coding-haebojago.tistory.com/
+
+
 ## 기술스택
 
 <div>
